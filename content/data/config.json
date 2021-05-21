@@ -6,12 +6,12 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Projects",
-                "url": "/project/"
-            },
-            {
                 "label": "About",
                 "url": "/"
+            },
+            {
+                "label": "Projects",
+                "url": "/project/"
             },
             {
                 "label": "Blog",
