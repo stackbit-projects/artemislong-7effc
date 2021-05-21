@@ -6,6 +6,11 @@ sections:
     type: section_content
     content: |
       ### What I do
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    has_more_link: true
+    more_link_text: lorem-ipsum
+    type: section_posts
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
