@@ -516,6 +516,6 @@ models:
         type: string
         label: Element Id
       - name: has_more_link
-        type: string
+        type: boolean
         label: Show Read More Link
         default: 'true'
