@@ -1,6 +1,6 @@
 ---
 title: Thang Than Lan - Meme-like webtoons
-subtitle: Silly drawings of lizards
+subtitle: 'Silly drawings of lizards '
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
