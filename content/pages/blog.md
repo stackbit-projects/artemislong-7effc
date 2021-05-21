@@ -10,11 +10,16 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: |+
+    content: |
+      ## Tufts SURGE Symposium
+
+      ###### April 2021
+
+
+
       ## College of San Mateo
 
       ###### August 2019 - June 2020
-
     type: section_content
 seo:
   title: ''
