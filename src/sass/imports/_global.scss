@@ -85,7 +85,7 @@ blockquote {
     }
 
     .block-image {
-        display: block;
+         text-align: center;
         margin: 0 auto 2.5rem;
         @media screen and (max-width: $mobile) {
             width: 100%;
