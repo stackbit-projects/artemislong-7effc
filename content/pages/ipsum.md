@@ -24,6 +24,7 @@ subtitle: A bit of me
 ##### Artem Long Dinh (EN) - Dinh Tien Long (VN) - Артём Динь Шоновичь (RU)
 
 <p align="center">
+<img width="460" height="300" src="http://www.fillmurray.com/460/300">
 ![](/\_static/app-assets/IMG\_5668.jpg)
 </p>
 Hi friend! I'm Artem, also known as Artyom or Long. I study Biomedical Engineering at Tufts University (class of 2023), and my current favorite BME topics are neural engineering, diagnostic platforms. I also enjoy learning and practicing tech entrepreneurship by tinkering with ideas and actualizing them with cool people through [Projects](#).
