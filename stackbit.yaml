@@ -538,5 +538,5 @@ models:
         type: image
         label: Image
       - name: thumb_img_path
-        type: string
+        type: image
         label: Image in feed
