@@ -35,4 +35,3 @@ When I get off the computer, I hover around the city I live in and do urban exp
 
 I am happy to meet new people, new ideas, and new opportunities, so don't hesitate to contact me at <tien_long.dinh@tufts.edu>. I hope you will enjoy learning about some of my work and thoughts on this website!
 
-\<br/>
