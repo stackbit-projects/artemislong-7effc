@@ -3,7 +3,8 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    subtitle: "##### \\<p align=\"center\">Artem Long Dinh (EN)\_- Dinh Tien Long (VN)\_- Артём Динь Шоновичь (RU)\\</p>\n"
+    subtitle: |
+      #####
     image_alt: Author avatar
   - title: Text
     section_id: intro
