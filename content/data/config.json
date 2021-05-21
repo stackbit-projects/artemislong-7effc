@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "content": "This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. <br> Check out my hand coded React portfolio at <a href=\"https://artemislong.netlify.app/\" target=\"_blank\"  rel=\"noopener\">ArtemisLong</a>.",
+        "content": "This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. <br> Check out my hand coded React portfolio at <a href=\"https://www.artemislong.netlify.app/\" target=\"_blank\"  rel=\"noopener\">ArtemisLong</a>.",
         "has_social": true,
         "social_links": []
     },
