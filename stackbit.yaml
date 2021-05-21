@@ -536,3 +536,4 @@ models:
         label: Subtitle
       - name: content_img_path
         type: string
+        label: Image
