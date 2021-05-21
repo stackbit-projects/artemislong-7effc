@@ -533,3 +533,4 @@ models:
         label: Title
       - name: subtitle
         type: string
+        label: Subtitle
