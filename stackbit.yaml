@@ -530,4 +530,4 @@ models:
     fields:
       - name: title
         type: string
-        label: ''
+        label: Title
