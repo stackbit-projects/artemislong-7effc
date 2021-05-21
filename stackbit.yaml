@@ -451,9 +451,9 @@ models:
         name: more_link_text
         label: Read more link label
     labelField: title
-  section_posts:
+  section_projects:
     type: object
-    label: Posts Section
+    label: Projects Section
     fields:
       - type: string
         name: title
