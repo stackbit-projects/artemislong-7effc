@@ -519,3 +519,5 @@ models:
         type: boolean
         label: Show Read More Link
         default: 'true'
+      - name: ''
+        type: string
