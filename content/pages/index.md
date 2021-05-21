@@ -4,9 +4,8 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: |+
-      ### A bit of me.
-
+    content: |
+      ### A bit of me
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
