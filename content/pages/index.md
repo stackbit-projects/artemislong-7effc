@@ -6,6 +6,7 @@ sections:
     subtitle: |
       #####
     image_alt: Author avatar
+    image: images/incredible-europa.jpg
   - title: Text
     section_id: intro
     type: section_content
