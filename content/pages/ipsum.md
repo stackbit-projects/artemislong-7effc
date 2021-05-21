@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:description'
       value: Aliquam lobortis faucibus blandit
 layout: page
-subtitle: 'A bit '
+subtitle: A bit of me
 ---
 ##### Artem Long Dinh (EN) - Dinh Tien Long (VN) - Артём Динь Шоновичь (RU)
 
