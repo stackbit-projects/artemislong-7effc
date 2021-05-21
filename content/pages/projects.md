@@ -12,9 +12,9 @@ sections:
       ## Lorem ipsum
 
 
-      \<img src="drawing.jpg" alt="drawing" width="200"/>
 
 
+      \`\<img src="drawing.jpg" alt="drawing" width="200"/>\`
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
