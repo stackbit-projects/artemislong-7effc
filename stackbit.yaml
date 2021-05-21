@@ -507,7 +507,7 @@ models:
               label: Relative Url
   project_section:
     type: object
-    label: project_section
+    label: Project Section
     fields:
       - name: title
         type: string
