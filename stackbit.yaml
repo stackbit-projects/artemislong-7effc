@@ -505,3 +505,6 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  project_section:
+    type: object
+    label: project_section
