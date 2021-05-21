@@ -11,7 +11,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ##### Vietnamese Student Association @ Tufts
+      #### Vietnamese Student Association @ Tufts
 
       ###### From Fall 2020
 
@@ -19,13 +19,13 @@ sections:
 
       >
 
-      ##### Tufts SURGE Symposium
+      #### Tufts SURGE Symposium
 
       ###### April 2021
 
       >
 
-      ##### College of San Mateo
+      #### College of San Mateo
 
       ###### August 2019 - June 2020
     type: section_content
