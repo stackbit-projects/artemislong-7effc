@@ -521,3 +521,4 @@ models:
         default: 'true'
       - name: ''
         type: string
+        label: Read More Link Label
