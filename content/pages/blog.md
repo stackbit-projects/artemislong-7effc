@@ -15,7 +15,7 @@ sections:
 
       ###### April 2021
 
-      \<br/>
+      >
 
       ## College of San Mateo
 
