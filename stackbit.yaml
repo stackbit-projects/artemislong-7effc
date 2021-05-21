@@ -528,5 +528,6 @@ models:
     layout: project
     folder: projects
     fields:
-      - name: ''
+      - name: title
         type: string
+        label: ''
