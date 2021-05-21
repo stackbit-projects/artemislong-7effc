@@ -505,6 +505,3 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  project:
-    type: object
-    label: project
