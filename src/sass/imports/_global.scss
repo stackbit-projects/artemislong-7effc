@@ -77,7 +77,6 @@ blockquote {
         margin: 1rem auto;
 
         @media screen and (max-width: $mobile) {
-            display: block;
             max-width: 300px;
             margin: 1rem auto;
             width: 100%;
