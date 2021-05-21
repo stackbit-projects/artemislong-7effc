@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: "##### Artem Long Dinh (EN)\_- Dinh Tien Long (VN)\_- Артём Динь Шоновичь (RU)\n"
     image_alt: Author avatar
   - title: Text
     section_id: intro
