@@ -328,6 +328,51 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+  post:
+    type: page
+    urlPath: /posts/{slug}
+    label: Post
+    folder: posts
+    layout: post
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the post
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text displayed just below the title
+      - type: image
+        name: content_img_path
+        label: Image (single post)
+        description: The image displayed in the single post
+      - type: string
+        name: content_img_alt
+        label: Image alt text (single post)
+        description: The alt text of the blog feed image
+      - type: image
+        name: thumb_img_path
+        label: Image (blog feed)
+        description: The image displayed in the blog feed
+      - type: string
+        name: thumb_img_alt
+        label: Image alt text (blog feed)
+        description: The alt text of the blog feed image
+      - type: string
+        name: excerpt
+        label: Excerpt
+        description: The excerpt of the post displayed in the blog feed
+      - type: date
+        name: date
+        label: Date
+        required: true
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+        label: Seo
   action:
     type: object
     label: Action
