@@ -7,7 +7,7 @@ sections:
     content: |
       ### Some of my thoughts and stories
     type: section_content
-  - title: lorem-ipsum
+  - title: Thang Than Lan - Webtoon Page
     section_id: lorem-ipsum
     has_more_link: true
     more_link_text: lorem-ipsum
