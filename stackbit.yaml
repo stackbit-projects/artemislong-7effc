@@ -537,5 +537,5 @@ models:
       - name: content_img_path
         type: image
         label: Image
-      - name: ''
+      - name: thumb_img_path
         type: string
