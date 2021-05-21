@@ -3,11 +3,6 @@ title: lorem-ipsum
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    has_more_link: true
-    more_link_text: lorem-ipsum
-    type: section_posts
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum
 
@@ -21,6 +16,11 @@ sections:
       - dolor sit amet
     image_alt: lorem-ipsum
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    has_more_link: true
+    more_link_text: lorem-ipsum
+    type: section_posts
 seo:
   title: ''
   description: ''
