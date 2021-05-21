@@ -20,10 +20,10 @@ export default class Page extends React.Component {
                 <div className="content">
                     {markdownify(_.get(this.props, 'page.markdown', null))}
                 </div>
-                <div className="content">
+                <div className="content1">
                     {markdownify(_.get(this.props, 'page.markdown', null))}
                 </div>
-                <div className="content">
+                <div className="content2">
                     {markdownify(_.get(this.props, 'page.markdown', null))}
                 </div>
             </section>
