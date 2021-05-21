@@ -509,6 +509,6 @@ models:
     type: object
     label: project_section
     fields:
-      - name: ''
+      - name: title
         type: string
         label: Section title
