@@ -508,3 +508,6 @@ models:
   project_section:
     type: object
     label: project_section
+    fields:
+      - name: ''
+        type: string
