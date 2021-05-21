@@ -6,21 +6,6 @@ sections:
     type: section_content
     content: |
       ### What I do
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    type: section_hero
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
