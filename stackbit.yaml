@@ -539,3 +539,4 @@ models:
         label: Image
       - name: thumb_img_path
         type: string
+        label: Image in feed
