@@ -534,5 +534,5 @@ models:
       - name: subtitle
         type: string
         label: Subtitle
-      - name: ''
+      - name: content_img_path
         type: string
