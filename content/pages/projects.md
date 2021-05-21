@@ -5,7 +5,7 @@ sections:
     section_id: intro
     type: section_content
     content: |
-      ### Fun stuff only
+      ### What I do
   - title: Recent Posts
     section_id: posts
     type: section_posts
