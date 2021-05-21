@@ -283,12 +283,12 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-  post:
+  project:
     type: page
-    urlPath: /posts/{slug}
-    label: Post
-    folder: posts
-    layout: post
+    urlPath: /projects/{slug}
+    label: Project
+    folder: projects
+    layout: project
     fields:
       - type: string
         name: title
