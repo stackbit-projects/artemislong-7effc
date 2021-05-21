@@ -514,4 +514,4 @@ models:
         label: Section title
       - name: section_id
         type: string
-        label: Section id
+        label: Element Id
