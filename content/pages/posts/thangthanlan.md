@@ -1,6 +1,6 @@
 ---
 title: Thang Than Lan - Meme-like webtoons
-subtitle: lorem-ipsum
+subtitle: Silly drawings of
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
