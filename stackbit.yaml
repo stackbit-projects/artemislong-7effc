@@ -531,3 +531,5 @@ models:
       - name: title
         type: string
         label: Title
+      - name: ''
+        type: string
