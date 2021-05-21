@@ -526,3 +526,4 @@ models:
     type: page
     label: Project
     layout: project
+    folder: projects
