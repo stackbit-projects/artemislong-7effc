@@ -519,6 +519,6 @@ models:
         type: boolean
         label: Show Read More Link
         default: 'true'
-      - name: ''
+      - name: more_link_text
         type: string
         label: Read More Link Label
