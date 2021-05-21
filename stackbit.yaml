@@ -512,3 +512,5 @@ models:
       - name: title
         type: string
         label: Section title
+      - name: ''
+        type: string
