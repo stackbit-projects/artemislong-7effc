@@ -4,9 +4,8 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: |+
-      ### A bit of me.
-
+    content: |
+      ### Some things I have done.
   - title: Recent Posts
     section_id: posts
     type: section_posts
