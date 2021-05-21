@@ -22,9 +22,14 @@ seo:
       value: Aliquam lobortis faucibus blandit
 layout: page
 ---
+Artem Long Dinh (EN) - Dinh Tien Long (VN) - Артём Динь Шоновичь (RU)
+![](/\_static/app-assets/IMG\_5668.jpg)
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+Hi friend! I'm Artem, also known as Artyom or Long. I study Biomedical Engineering at Tufts University (class of 2023), and my current favorite BME topics are neural engineering, diagnostic platforms. I also enjoy learning and practicing tech entrepreneurship by tinkering with ideas and actualizing them with cool people through [Projects](#).
+
+When I get off the computer, I hover around the city I live in and do urban exploration (legally), binge scifi, or simply have fun with my friends. Some conversations excite me more than others such as East Asian history and architecture, world geopolitics, and what distinguishes humans from snails. I document some of my thoughts and stories in [Blog](#).I am happy meet new people, new ideas, and new opportunities, so don't hesitate to contact me at <tien_long.dinh@tufts.edu>. I hope you will enjoy learning about some of my work and thoughts on this website!
+
+
+
