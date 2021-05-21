@@ -20,8 +20,6 @@ seo:
       value: Aliquam lobortis faucibus blandit
 layout: page
 ---
-###### \<p style="align:center;">Artem Long Dinh (EN) - Dinh Tien Long (VN) - Артём Динь Шоновичь (RU)\</p>
-
 ![](/\_static/app-assets/IMG\_5668.jpg)
 
 Hi friend! I'm Artem, also known as Artyom or Long. I study Biomedical Engineering at Tufts University (class of 2023), and my current favorite BME topics are neural engineering, diagnostic platforms. I also enjoy learning and practicing tech entrepreneurship by tinkering with ideas and actualizing them with cool people through [Projects](#).
