@@ -517,3 +517,4 @@ models:
         label: Element Id
       - name: has_more_link
         type: string
+        label: Show Read More Link
