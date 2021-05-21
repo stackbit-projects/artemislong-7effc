@@ -524,5 +524,5 @@ models:
         label: Read More Link Label
   project:
     type: page
-    label: project
+    label: Project
     layout: project
