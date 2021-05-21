@@ -522,3 +522,7 @@ models:
       - name: more_link_text
         type: string
         label: Read More Link Label
+  project:
+    type: page
+    label: project
+    layout: project
