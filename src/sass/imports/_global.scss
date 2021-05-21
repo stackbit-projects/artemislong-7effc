@@ -73,13 +73,14 @@ blockquote {
 
     .inline-image {
         float: left;
-        width: 10;
+        max-width: 300px;
         margin: 1rem 1.5rem 1rem 0;
 
         @media screen and (max-width: $mobile) {
             display: block;
             max-width: 300px;
             margin: 1rem 0;
+            width: 100%;
         }
     }
 
