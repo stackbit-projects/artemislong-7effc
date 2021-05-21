@@ -19,8 +19,7 @@ export default class Post extends React.Component {
                         {_.get(this.props, 'page.frontmatter.subtitle', null) && (
                         <h3>{htmlToReact(_.get(this.props, 'page.frontmatter.subtitle', null))}</h3>
                         )}
-                        <h3 className="publish-date">{moment(_.get(this.props, 'page.frontmatter.date', null)).strftime('%A, %B %e, %Y')}</h3>
-                    </div>
+                         </div>
                 </header>
                 <div className="content">
                     {markdownify(_.get(this.props, 'page.markdown', null))}
