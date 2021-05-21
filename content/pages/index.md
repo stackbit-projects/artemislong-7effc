@@ -1,12 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
-    subtitle: |
-      #####
-    image_alt: Author avatar
-    image: images/incredible-europa.jpg
   - title: Text
     section_id: intro
     type: section_content
