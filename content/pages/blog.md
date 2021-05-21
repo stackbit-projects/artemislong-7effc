@@ -5,7 +5,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ### Some of my thoughts and stories
+      ### Documenting my journey
     type: section_content
   - title: Thang Than Lan - Webtoon Page
     section_id: lorem-ipsum
