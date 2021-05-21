@@ -7,11 +7,6 @@ sections:
     content: |
       ### Documenting my journey
     type: section_content
-  - title: Thang Than Lan - Webtoon Page
-    section_id: lorem-ipsum
-    has_more_link: true
-    more_link_text: lorem-ipsum
-    type: section_posts
 seo:
   title: ''
   description: ''
