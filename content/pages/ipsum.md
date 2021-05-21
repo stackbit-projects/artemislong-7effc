@@ -1,6 +1,6 @@
 ---
 title: Ipsum dolor sit amet
-subtitle: Aliquam lobortis faucibus blandit
+subtitle: "Artem Long Dinh (EN)\_- Dinh Tien Long (VN)\_- Артём Динь Шоновичь (RU)"
 seo:
   title: Ipsum dolor sit amet
   description: Aliquam lobortis faucibus blandit
