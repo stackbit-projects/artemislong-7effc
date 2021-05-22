@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: images/thang_than_lan.png
 ---
 ## Lorem ipsum
 
