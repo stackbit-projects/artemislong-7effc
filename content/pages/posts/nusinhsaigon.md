@@ -22,7 +22,7 @@ I grouped with students from multiple high schools in my city to create a media 
 <br><br>
 Supervising over 60 talented members specializing in media, art, and photography, I had a memorable experience having fun, going through ups and downs, and realizing our craziest ideas. We organized a citywide high school photography competition with an exhibition that attracted over 140 competitors and about 300 exhibition visitors. We quite messed up with the timing as the event was close to the end of the year, but we still managed to secure sponsorships from local businesses to cover exhibition and prize expenses.
 <br><br>
-I am proud that Nu Sinh Sai Gon is still active after more than 2 years since I left and has recently crossed the 30,000 followers milestone and became financially self-sustaining.
+I am proud that Nu Sinh Sai Gon is still active after more than 2 years since I left and has recently crossed the 30,000 followers milestone and became financially self-sustaining. Give it a look at <a href="Nu Sinh Sai Gon Facebook page.
 
 ![](/\_static/app-assets/nssg2.png)
 <br>
