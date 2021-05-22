@@ -15,7 +15,6 @@ sections:
 
       ###### From Fall 2020
 
-      ![](/\_static/app-assets/smart-coriander.JPG)
 
       >
 
