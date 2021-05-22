@@ -19,7 +19,7 @@ export default class SectionPosts extends React.Component {
                         <p className="summary">{_.get(post, 'frontmatter.excerpt', null)}</p>
                         )}
                         {((_.get(section, 'has_more_link', null) === true) && _.get(section, 'more_link_text', null)) && (
-                        <div className="text-link">{_.get(section, 'more_link_text', null)}</div>
+                        <div className="text-link">Check it out</div>
                         )}
                     </div>
                 </Link>
