@@ -28,5 +28,5 @@ I am proud that Nu Sinh Sai Gon is still active after more than 2 years since I 
 <br>
 Some typical pictures from our posts.
 
-![](/\_static/app-assets/nssgteam.jpg)
+![](/\_static/app-assets/nssg2.png)
 <br> Our exhibition organizing team and I.
