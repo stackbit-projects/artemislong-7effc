@@ -16,7 +16,7 @@ thumb_img_path: images/thang_than_lan.png
 ---
 
 
-![](/\_static/app-assets/nssg.png)
+![](/\_static/app-assets/nssgbig.png)
 <br>
 I grouped with students from multiple high schools in my city to create a media page on Facebook to share wholesome stories and unique pictures of school life in different schools. We playfully chose our organization's name and emblem to represent the image of Saigonese "schoolgirl" as most schools had unique uniform designs for girls (and also because our main target audience was girls). 
 <br><br>
