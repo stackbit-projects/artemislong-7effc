@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+content_img_path: images/thang_than_lan.png
 ---
 ![](/\_static/app-assets/thang_than_lan.png)
 
