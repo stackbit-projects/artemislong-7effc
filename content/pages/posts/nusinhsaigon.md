@@ -28,5 +28,5 @@ I am proud that Nu Sinh Sai Gon is still active after more than 2 years since I 
 <br>
 Some typical pictures from our posts.
 <br>
-![](/\_static/app-assets/caring-thyme.png)
+![](/\_static/app-assets/art.svg)
 <br> The page's new look under the new leadership.
