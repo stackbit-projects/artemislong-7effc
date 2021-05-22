@@ -25,6 +25,7 @@ Supervising over 60 talented members specializing in media, art, and photography
 I am proud that Nu Sinh Sai Gon is still active after more than 2 years since I left and has recently crossed the 30,000 followers milestone and became financially self-sustaining.
 
 ![](/\_static/app-assets/nssg2.png)
+<br>
 Some typical pictures from our posts.
 
 ![](/\_static/app-assets/nssgbig.png)
