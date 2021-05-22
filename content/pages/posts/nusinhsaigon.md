@@ -29,4 +29,4 @@ I am proud that Nu Sinh Sai Gon is still active after more than 2 years since I 
 Some typical pictures from our posts.
 
 ![](/\_static/app-assets/nssgbig.png)
-<br> The exhibition organizing team. Can you find me in here?
+<br> Our exhibition organizing team. Can you find me in here?
