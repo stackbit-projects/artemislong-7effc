@@ -15,9 +15,7 @@ export default class SectionPosts extends React.Component {
                     {_.get(post, 'frontmatter.thumb_img_path', null) && (<img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)}/>)}
                     <div className="copy">
                         <h2>{_.get(post, 'frontmatter.title', null)}</h2>
-                        {_.get(post, 'frontmatter.excerpt', null) && (
-                        <p className="summary">{_.get(post, 'frontmatter.excerpt', null)}</p>
-                        )}
+                       
                         {((_.get(section, 'has_more_link', null) === true) && _.get(section, 'more_link_text', null)) && (
                         <div className="text-link">Check it out</div>
                         )}
