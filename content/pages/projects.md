@@ -5,7 +5,7 @@ sections:
     section_id: intro
     type: section_content
     content: |
-      ### What I do
+      ### What I did and still do
   - title: lorem-ipsum
     section_id: lorem-ipsum
     has_more_link: true
