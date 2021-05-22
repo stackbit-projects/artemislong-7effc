@@ -29,4 +29,4 @@ I am proud that Nu Sinh Sai Gon is still active after more than 2 years since I 
 Some typical pictures from our posts.
 <br>
 ![](/\_static/app-assets/caring-thyme.png)
-<br> Our exhibition organizing team and I.
+<br> The page's new look under the new leadership.
