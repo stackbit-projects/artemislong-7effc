@@ -4,8 +4,9 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: |
-      ### What I did and still do
+    content: |+
+      ### Stuff that made and make me happy
+
   - title: lorem-ipsum
     section_id: lorem-ipsum
     has_more_link: true
